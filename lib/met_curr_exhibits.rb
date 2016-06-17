@@ -1,5 +1,5 @@
 require "met_curr_exhibits/version"
 
 module MetCurrExhibits
-  # Your code goes here...
+  require_relative '../config/environment'
 end
